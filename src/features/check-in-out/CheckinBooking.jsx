@@ -14,7 +14,7 @@ import BookingDataBox from "../bookings/BookingDataBox";
 
 import { useBooking } from "../bookings/useBooking";
 import { useMoveBack } from "../../hooks/useMoveBack";
-import { useCheckin } from "./useCheckIn";
+import { useCheckin } from "./useCheckin";
 import { useSettings } from "../settings/useSettings";
 
 const Box = styled.div`
